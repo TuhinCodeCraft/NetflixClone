@@ -227,7 +227,23 @@ footer .questions {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     color: white;
 }
+.lang_btn{
+    margin-top: 30px;
+}
+#set_val{
+    color: whitesmoke;
+    background: #0f0f0f;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
 
+.footer_text{
+    color: rgba(255,255,255,0.7);
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
 
 
 @media screen and (max-width: 1300px) {
